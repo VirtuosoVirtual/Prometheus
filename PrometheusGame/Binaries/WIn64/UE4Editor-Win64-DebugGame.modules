@@ -1,0 +1,8 @@
+{
+	"Changelist" : 3005592,
+	"BuildId" : "256ef82f-f8c5-4e70-af71-5e4f5b96b859",
+	"Modules" : 
+	{
+		"Prometheus" : "UE4Editor-Prometheus-Win64-DebugGame.dll"
+	}
+}
